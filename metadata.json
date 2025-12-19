@@ -1,0 +1,5 @@
+{
+  "name": "Puzzle Master AI",
+  "description": "Um jogo de quebra-cabeça interativo onde você pode carregar suas próprias fotos, escolher entre três níveis de dificuldade e desafiar seu tempo de conclusão.",
+  "requestFramePermissions": []
+}
